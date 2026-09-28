@@ -1,0 +1,12 @@
+# Environment variables
+.env
+*.env.local
+
+# Python compiled files and caches
+__pycache__/
+*.pycnode_modules/
+.next/
+dist/
+build/
+*.log
+node_modules/
